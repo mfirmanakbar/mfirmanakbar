@@ -3,9 +3,10 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 - 🤔 &nbsp; Software Engineer working in Indonesia.
-- 💼 &nbsp; I've been working with **JAVA** Backend and use **ReactJS** Frontend for Freelance.
+- 💼 &nbsp; I've been working with **JAVA** as Backend and **ReactJS** as Frontend.
 - 🌱 &nbsp; Learning more about Coding Algorithms and Entrepreneurshipm.
-- ⚡️ &nbsp; I like playing Fortnite.
+- ⚡️ &nbsp; I like playing Call of Duty Mobile & Fortnite.
+- ☕ &nbsp; I love to learn and passionate in Web Development.
 
 ---
 
